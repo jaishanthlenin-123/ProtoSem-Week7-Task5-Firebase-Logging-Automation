@@ -1,0 +1,12 @@
+# Compiled firmware
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+.pio/
+.vscode/
+build/
+*.bak
+Thumbs.db
+.DS_Store
